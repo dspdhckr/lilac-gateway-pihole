@@ -4,11 +4,6 @@
 
 Cloudflare Gateway allows you to create custom rules to filter HTTP, DNS, and network traffic based on your firewall policies. This is a collection of scripts that can be used to get a similar experience as if you were using Pi-hole, but with Cloudflare Gateway - so no servers to maintain or need to buy a Raspberry Pi!
 
-> **Support for female and low-tech user to fast and minium setup steps**
-
-## For Vietnamese User
-Go to [Molify](https://molify.net/tu-tao-dns-voi-cloudflare-zero-trust/)
-
 ## About the individual scripts
 
 - `cf_list_delete.js` - Deletes all lists created by LLGP from Cloudflare Gateway. This is useful for subsequent runs.
